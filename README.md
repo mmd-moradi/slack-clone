@@ -15,7 +15,7 @@ This project is a clone of the popular communication platform Slack, developed u
 
 1. **Real-time chat**: Users can engage in real-time conversations with other users, experiencing instant message updates without the need to refresh the page.
 2. **Google Authentication**: Users can log in to the application using their Google accounts, ensuring secure access to the chat platform.
-3. ....
+3. **Adding channels**
 
 ---------
 # Getting Started with Create React App and Redux
