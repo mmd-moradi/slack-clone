@@ -2,6 +2,10 @@
 ![Screenshot from 2023-06-11 17-14-05](https://github.com/mmd-moradi/slack-clone/assets/110211422/bea6a718-91f7-4c8c-8216-96bae2f2044b)
 ----------
 This project is a clone of the popular communication platform Slack, developed using a combination of modern web technologies. It provides real-time chat functionality and supports Google Authentication for user login.
+-------
+## Live Version
+
+Check out the live version of the project [here](https://slack-clone-72365.web.app/).
 
 ## Technologies Used
 
